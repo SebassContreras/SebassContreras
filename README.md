@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Sebastian Contreras
 
 [![GitHub followers](https://img.shields.io/github/followers/SebassContreras?label=Follow&style=social)](https://github.com/SebassContreras)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/tu-perfil/)](https://linkedin.com/in/tu-perfil/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/tu-perfil/)](https://linkedin.com/in/tu-perfil/](https://www.linkedin.com/in/sebas-contreras/))
 
 ## 🚀 Sobre mí
 
